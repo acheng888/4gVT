@@ -1,4 +1,5 @@
-echo -e "\033[1;31m 4G Viettel 0Đ\033[0m"
+echo ""
+echo -e       "\033[1;31m 4G Viettel 0Đ\033[0m"
 echo -e "\033[1;32m Chào Các Bạn! Để Sử Dụng Hãy Làm Theo Hướng Dẫn!\033[0m"
 echo " " 
 echo -e "\033[1;33m[1]: Gõ lệnh neko để khởi động nhanh nekobox\033[0m"
