@@ -1,1 +1,0 @@
-clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/acheng888/4gtun/raw/main/4gtun.zip && unzip 4gtun.zip && chmod a+x tun && chmod a+x psiphon-tunnel-core && exit
