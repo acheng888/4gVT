@@ -1,0 +1,1 @@
+bash <(curl -fsSL https://raw.githubusercontent.com/acheng888/4gVT/main/inst.sh)
