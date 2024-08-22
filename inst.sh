@@ -5,7 +5,7 @@ sleep 1
 echo -e "\e[1;33mĐang cài đặt\e[0m"
 pkg update -y
 clear
-cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/acheng888/4gVT/raw/main/4g0d.zip && unzip 4g0d.zip && chmod a+x nek && chmod a+x nekman.go && chmod a+x 4g && chmod a+x qex && chmod a+x psiphon-tunnel-core  
+cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/acheng888/4gVT/raw/main/4g0d.zip && unzip 4g0d.zip && chmod a+x *  
 clear
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install wget -y && wget https://github.com/acheng888/4gVT/raw/main/t1 && mv t1 motd
 clear
