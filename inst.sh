@@ -14,4 +14,6 @@ clear
 sleep 1
 echo -e "\e[1;32mĐã cài đặt thành công\e[0m"
 sleep 1
+clear
 login
+termux-wake-lock
