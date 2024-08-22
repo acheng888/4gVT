@@ -11,7 +11,7 @@ cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install w
 clear
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/acheng888/4gVT/raw/main/l1 && chmod +x * && mv l1 login &&
 clear
-sleep 2
+sleep 1
 echo -e "\e[1;32mĐã cài đặt thành công\e[0m"
 sleep 1
 login
