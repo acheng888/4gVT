@@ -1,7 +1,7 @@
 clear
 termux-setup-storage
 clear
-sleep 2
+sleep 1
 echo -e "\e[1;33mĐang cài đặt\e[0m"
 apt update && apt upgrade -y
 clear
