@@ -18,4 +18,3 @@ clear
 termux-wake-lock
 clear
 login
-nek
