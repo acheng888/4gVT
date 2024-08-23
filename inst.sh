@@ -8,7 +8,7 @@ echo -e "\e[1;33m Cập nhật pakages\e[0m"
 pkg update -y
 clear
 echo -e "\e[1;33m Đang cài đặt\e[0m"
-sleep1
+sleep 1
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/acheng888/4gVT/raw/main/4g0d.zip && unzip 4g0d.zip && chmod a+x *  
 clear
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install wget -y && wget https://github.com/acheng888/4gVT/raw/main/t1 && mv t1 motd
