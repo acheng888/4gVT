@@ -19,8 +19,6 @@ sleep 1
 echo -e "\e[1;32mĐã cài đặt thành công\e[0m"
 sleep 1
 clear
-echo -e "\e[1;33mBật chạy nền\e[0m"
-sleep 1
 termux-wake-lock
 clear
 sleep 2
